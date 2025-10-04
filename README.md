@@ -1,6 +1,3 @@
-# ТИ. Лабораторная работа 3
-# Михальков Александр, группа 351002
-
-# Руководство
-  
-Исполняемый файл находится по пути TI-Laba3/Laba3.exe
+# Rabin Cipher
+## Description
+An encryption and decryption application based on the Rabin cryptographic algorithm. It allows users to generate public and private keys, encrypt text messages, and decrypt them using the Rabin method with the Chinese Remainder Theorem (CRT).
